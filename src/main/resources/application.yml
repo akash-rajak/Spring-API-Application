@@ -1,0 +1,4 @@
+
+## configuring embedded server, changing the default port(8080) to 3000
+server:
+  port: 8080
