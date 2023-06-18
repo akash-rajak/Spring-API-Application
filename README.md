@@ -1,5 +1,7 @@
 ## ✔ Spring API Application
-- An application of API in Spring Boot Framework under Maven Project.
+- Built a Maven based Spring Web application in `Spring MVC` using `Java, Maven, and Spring Boot Framework`.
+- Exposed the API method as rest endpoints using `RestController` annotation.
+- Used `Apache Tomcat` as default embedded container to process the `HTTP requests` and return the response.
 
 <!--
 <p align = "center">
