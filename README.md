@@ -38,8 +38,15 @@
 
 ****
 
+### 📌Requirements :
+- Intellij IDEA or any Java based IDEA
+
+****
+
 ### 📌How this Script works :
-- 
+- First user need to open the project folder in the `Intellij IDEA`.
+- Then user can run the `simpleAPIApplication.java` class and can see the web output of the reponse of `HTTP Request` under the `http://localhost:8080/`.
+- The port number `8080` is by default under Apache Tomcat, and user can configure the port number under the `application.yml` file.
 	
 ****
 
