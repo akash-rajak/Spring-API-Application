@@ -72,6 +72,11 @@
 
 ****
 
+### IMP Notes:
+- One can't send HTTP request with local host on online Postman and test it.
+
+****
+
 ### 🌟Stargazers Over Time:
 [![Stargazers repo roster for @akash-rajak/Spring-API-Application](https://reporoster.com/stars/akash-rajak/Spring-API-Application)](https://github.com/akash-rajak/Spring-API-Application/stargazers)
 [![Stargazers over time](https://starchart.cc/akash-rajak/Spring-API-Application.svg)](https://starchart.cc/akash-rajak/Spring-API-Application)
